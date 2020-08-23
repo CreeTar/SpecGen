@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <Main msg="Hello Vue in CodeSandbox!"/>
+    <v-app>
+      <Main msg="Hello Vue in CodeSandbox!"/>
+    </v-app>
   </div>
 </template>
 
